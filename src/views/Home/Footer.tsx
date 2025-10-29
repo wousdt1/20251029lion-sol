@@ -16,7 +16,7 @@ const Footer = () => {
         // },
         {
           key: 'Telegram',
-          title: '@LionToolcc',
+          title: '@liontoolcc',
           href: TELEGRAMLINK,
           blankTarget: true,
         },

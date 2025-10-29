@@ -1,7 +1,7 @@
-export const TELEGRAMLINK = 'https://t.me/LionToolcc'
+export const TELEGRAMLINK = 'https://t.me/liontoolcc'
 
 
-export const PROJECT_NAME = 'LionTool 狮子一键发币平台'
+export const PROJECT_NAME = 'LionTool 狮子工具一键发币平台'
 export const BANANATOOLS_ADDRESS = '5UPDSucuExA3bSvAHw7HvB2Xdx2aFuT3FQHdCzQe8kpC'
 
 export const CREATE_TOKEN_FEE = 0.00001 //创建代币费用

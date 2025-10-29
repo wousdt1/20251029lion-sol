@@ -126,7 +126,7 @@ export default () => {
               <div style={{ margin: '10px 0' }}>
                 <a href={TELEGRAMLINK} target="_blank" className="flex justify-center items-center">
                   <BsTelegram style={{ marginRight: '4px' }} />
-                  <div>@LionToolcc</div>
+                  <div>@liontoolcc</div>
                 </a>
               </div>
             </div>
